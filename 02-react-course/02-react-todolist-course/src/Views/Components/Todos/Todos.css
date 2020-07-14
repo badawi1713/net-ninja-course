@@ -1,0 +1,14 @@
+.todolist {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.todolist p:hover {
+    color: #2196f3;
+}
+
+.todolist span:hover {
+    cursor: pointer;
+    color: red;
+}
