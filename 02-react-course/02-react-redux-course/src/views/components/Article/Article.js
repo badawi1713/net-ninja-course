@@ -1,6 +1,5 @@
 import React from "react";
 import { connect } from "react-redux";
-
 import { deletePost } from "../../../redux/actions/articleActions";
 
 class Article extends React.Component {
